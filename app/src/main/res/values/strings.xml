@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tutu.ru internship</string>
+    <string name="error_message">Ошибка загрузки</string>
+    <string name="name_movie">Название</string>
+    <string name="default_popularity">Рейтинг</string>
+    <string name="default_popularity_info">Рейтинг:</string>
+    <string name="release_date">Дата релиза</string>
+    <string name="description">О фильме</string>
+    <string name="slogan">Мини-слоган</string>
+    <string name="name_test">ТЕСТОВОЕ ЗАДАНИЯ ДЛЯ ВАКАНСИИ TUTU.RU</string>
+    <string name="thanks">СПАСИБО</string>
+
+</resources>
